@@ -1,6 +1,7 @@
 Project Title: Madhav Ecommerce Sales Dashboard
 
 Project Description
+
 This project is a dynamic and interactive sales dashboard created for "Madhav Ecommerce". Its primary goal is to provide a consolidated view of key business metrics, offering actionable insights into sales performance, profitability, customer behavior, and product trends. The dashboard is designed to empower stakeholders to make informed, data-driven decisions to foster business growth.
 
 ![proj_3](https://github.com/user-attachments/assets/6b3e55d8-64e3-4eb1-8970-5113cdf76a36)
