@@ -1,6 +1,6 @@
 Project Title: Madhav Ecommerce Sales Dashboard
 
-Project Description
+Project Description:
 
 This project is a dynamic and interactive sales dashboard created for "Madhav Ecommerce". Its primary goal is to provide a consolidated view of key business metrics, offering actionable insights into sales performance, profitability, customer behavior, and product trends. The dashboard is designed to empower stakeholders to make informed, data-driven decisions to foster business growth.
 
@@ -44,8 +44,9 @@ Top Customers: Harivansh and Madhav are identified as the most valuable customer
 
 Preferred Payment Mode: Cash on Delivery (COD) is the most popular payment method among customers (44%), followed by UPI (21%).
 
-Tools Used
+Tools Used:
 Visualization Tool: This dashboard appears to be built using a tool like Power BI or Tableau.
 
-Data Source: The underlying data is likely from an Excel file.
+Data Source: 
+The underlying data is likely from CSV files.
 
